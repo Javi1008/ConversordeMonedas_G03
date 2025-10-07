@@ -361,6 +361,12 @@ function convertirMoneda() {
     const destino = DOM.monedaDestino.value;
     const textoCantidad = DOM.inputCantidad.value.trim();
 
+    // ←--- VALIDACIÓN ADICIONAL: asegurar que se hayan seleccionado monedas
+    if (!origen || !destino) {
+      mostrarNotificacion("⚠️ Por favor selecciona las monedas de origen y destino.");
+      return;
+    }
+
     if (!esCantidadValida(textoCantidad)) {
       mostrarNotificacion("⚠️ Ingrese un número válido (máx. 2 decimales, mayor que 0)");
       return;
