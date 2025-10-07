@@ -1,3 +1,4 @@
+print("Servidor Flask ejecutándose correctamente...")
 # server.py
 import json
 import os
