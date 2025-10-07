@@ -375,3 +375,11 @@ body.modo-oscuro button {
   color: #f5f5f5;
   border: 1px solid #555;
 }
+
+#resultado, .resultado {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #6c63ff;
+  margin-top: 10px;
+}
+
