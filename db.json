@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "User_0000001",
+      "name": "Miguel Angel",
+      "email": "iquintana@gmail.com",
+      "prefCurrency": "PEN",
+      "created": "2025-10-06T17:27:00.088653",
+      "historial": []
+    },
+    {
+      "id": "User_0000002",
+      "name": "Mirko Josue",
+      "email": "rrafael@gmail.com",
+      "prefCurrency": "PEN",
+      "created": "2025-10-06T17:28:57.027680",
+      "historial": []
+    },
+    {
+      "id": "User_0000003",
+      "name": "Victor Manuel",
+      "email": "spure@gmail.com",
+      "prefCurrency": "USD",
+      "created": "2025-10-06T17:29:49.805875",
+      "historial": []
+    },
+    {
+      "id": "User_0000004",
+      "name": "Jhoan Jose",
+      "email": "sporras@gmail.com",
+      "prefCurrency": "EUR",
+      "created": "2025-10-06T17:30:09.544231",
+      "historial": []
+    }
+  ],
+  "last_id": 5
+}
