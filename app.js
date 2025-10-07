@@ -1,4 +1,4 @@
-// Conexión a API 
+// Conexión con la API 
 const API_URL = "http://localhost:5000"; 
 
 // Estado global
