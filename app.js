@@ -1,3 +1,4 @@
+console.log("Conversor de Monedas iniciado correctamente");
 // Conexión con la API 
 const API_URL = "http://localhost:5000"; 
 
