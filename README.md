@@ -1,5 +1,4 @@
-README.md debe incluir:
-markdown
+README.md
 # [Convertidor de Monedas] - Integración Backend
 ## Integrantes:
 - Izquierdo Quintana Miguel Angel
